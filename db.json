@@ -1,0 +1,48 @@
+{
+  "seller": [
+    {
+      "name": "Nguyen Thanh Dat",
+      "email": "thanhdat11badinh@gmail.com",
+      "password": "dat27032001",
+      "id": 1
+    },
+    {
+      "name": "Tran Binh An",
+      "email": "tranbinhan191@gmail.com",
+      "password": "bodangthuong191",
+      "id": 2
+    },
+    {
+      "name": "Nguyen Anh Khoa",
+      "password": "khoangu123",
+      "email": "anhk312001@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Nguyen Dang Khoa",
+      "password": "khoacan123",
+      "email": "tinblabla169@gmail.com",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 14",
+      "price": 19590000,
+      "category": "mobiles",
+      "color": "yellow",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-14-storage-select-202209-6-1inch-y889_1.jpg",
+      "description": "iPhone 14 128GB | Chính hãng VN/A",
+      "id": 1
+    },
+    {
+      "name": "iPhone 14 Plus",
+      "price": "21890000",
+      "color": "red",
+      "category": "mobiles",
+      "description": "iPhone 14 Plus 128GB | Chính hãng VN/A",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/h/photo_2022-09-28_21-58-54_6.jpg",
+      "id": 2
+    }
+  ]
+}
